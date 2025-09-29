@@ -1,0 +1,8 @@
+{
+  "tasks": [
+    {
+      "label": "Criar aplicativo em flutter",
+      "description": "Cria um novo aplicativo em flutter"
+    }
+  ]
+}
