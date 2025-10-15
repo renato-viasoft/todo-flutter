@@ -1,4 +1,4 @@
 class Endpoints {
-  static const todos = '/todos';
-  static String todoById(String id) => '/todos/$id';
+  static const todos = '/tasks';
+  static String todoById(String id) => '/tasks/$id';
 }
